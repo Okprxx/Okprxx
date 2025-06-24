@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Meokj
+# Hi, I am Meokj 👋
 
+I am a hobbyist of programming.
